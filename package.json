@@ -1,0 +1,17 @@
+{
+  "name": "event-driven-architecture",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to my learning journey of understanding Event-Driven Architecture through Node.js Events system. I'm following the official Node.js documentation and other valuable resources to gain a deeper understanding of how events work in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
